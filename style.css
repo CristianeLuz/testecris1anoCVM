@@ -1,3 +1,13 @@
 h1{
-    color:blue
+    color:blue;
+    text-align:center;
+}
+body{
+    background-color: azure;
+}
+h2{
+    color:blueviolet;
+}
+h3{
+    color:brown
 }
